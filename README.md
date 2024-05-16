@@ -1,1 +1,1 @@
-# Machine-learning-technologies-ITMO
+# Tasks for ITMO Machine learning technologies course
